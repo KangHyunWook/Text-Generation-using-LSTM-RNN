@@ -1,5 +1,8 @@
 # Text-Generation-using-LSTM-RNN
-The text data(Peter Pan in this example) is from Project Gutenberg
+The text data(Peter Pan in this example) is from Project Gutenberg <br />
+-https://www.gutenberg.org/ebooks/16
+![image](https://user-images.githubusercontent.com/18341803/127682463-ed8f5374-19d4-4eea-bfaa-7b5369195ade.png)
+
 
 <h2>How to run</h2>
 
