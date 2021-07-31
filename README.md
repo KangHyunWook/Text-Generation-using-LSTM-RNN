@@ -14,7 +14,7 @@ python train.py
 e.g. python test.py -w model-weights-01-2.7223.hdf5
 
 <h3>Additional Info</h3>
-It took more than 6days with my laptop, in which the cpu is 'Intel(R) Core(TM i5-8250U CPU' <br />
+It took more than 6days with my laptop, in which the cpu is 'Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz 1.80GHz' <br />
 However, less than 2hours with RTX 3070 ti with the following hyper-parameters
 
 num. of epochs: 50 <br />
