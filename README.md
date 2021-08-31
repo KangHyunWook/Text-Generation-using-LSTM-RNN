@@ -1,5 +1,5 @@
 # Text-Generation-using-LSTM-RNN
-Youtube link: https://www.youtube.com/watch?v=0Q_5UauapLk <br />
+Youtube link: https://www.youtube.com/watch?v=0Q_5UauapLk&list=PLzbU4Lcv-48q-eBuAtu9tdYmn5q_nGaEV&index=2<br />
 
 The text data(Peter Pan in this example) is from Project Gutenberg <br />
 -https://www.gutenberg.org/ebooks/16
