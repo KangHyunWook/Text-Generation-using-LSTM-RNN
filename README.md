@@ -1,8 +1,8 @@
 # Text-Generation-using-LSTM-RNN
+Youtube link: https://www.youtube.com/watch?v=0Q_5UauapLk <br />
+
 The text data(Peter Pan in this example) is from Project Gutenberg <br />
 -https://www.gutenberg.org/ebooks/16
-
-Youtube link: https://www.youtube.com/watch?v=0Q_5UauapLk <br />
 
 <h2>How to run</h2>
 
